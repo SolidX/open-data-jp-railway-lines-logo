@@ -1,15 +1,23 @@
 [
   {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Konan_Konan_Line_symbol.svg/28px-Konan_Konan_Line_symbol.svg.png",
+    "text": "弘南線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Konan_Owani_Line_symbol.svg/28px-Konan_Owani_Line_symbol.svg.png",
+    "text": "大鰐線"
+  },
+  {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/JR_JT_line_symbol.svg/28px-JR_JT_line_symbol.svg.png",
-    "text": "東海道線"
+    "text": "東海道線・伊東線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/JR_JO_line_symbol.svg/28px-JR_JO_line_symbol.svg.png",
-    "text": "横須賀線・総武快速線・総武本線・成田線"
+    "text": "横須賀・総武快速線・総武本線・成田線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JR_JK_line_symbol.svg/28px-JR_JK_line_symbol.svg.png",
-    "text": "京浜東北・根岸線"
+    "text": "京浜東北線・根岸線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/JR_JH_line_symbol.svg/28px-JR_JH_line_symbol.svg.png",
@@ -29,7 +37,7 @@
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/JR_JC_line_symbol.svg/28px-JR_JC_line_symbol.svg.png",
-    "text": "中央本線及び直通2路線"
+    "text": "中央線快速系統"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_JB_line_symbol.svg/28px-JR_JB_line_symbol.svg.png",
@@ -37,15 +45,15 @@
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/JR_JU_line_symbol.svg/28px-JR_JU_line_symbol.svg.png",
-    "text": "宇都宮線（東北本線）・高崎線"
+    "text": "宇都宮線・高崎線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/JR_JA_line_symbol.svg/28px-JR_JA_line_symbol.svg.png",
-    "text": "埼京線（赤羽線）"
+    "text": "埼京線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/JR_JJ_line_symbol.svg/28px-JR_JJ_line_symbol.svg.png",
-    "text": "常磐線快速"
+    "text": "常磐線快速電車"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/JR_JL_line_symbol.svg/28px-JR_JL_line_symbol.svg.png",
@@ -65,67 +73,63 @@
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tokyo_Monorail_Line_symbol.svg/28px-Tokyo_Monorail_Line_symbol.svg.png",
-    "text": "東京モノレール羽田空港線"
+    "text": "羽田空港線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rinkai_Line_symbol.svg/28px-Rinkai_Line_symbol.svg.png",
     "text": "りんかい線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Subway_TokyoGinza.png/28px-Subway_TokyoGinza.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_of_Tokyo_Metro_Ginza_Line.svg/28px-Logo_of_Tokyo_Metro_Ginza_Line.svg.png",
     "text": "銀座線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Subway_TokyoMarunouchi.png/28px-Subway_TokyoMarunouchi.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logo_of_Tokyo_Metro_Marunouchi_Line.svg/28px-Logo_of_Tokyo_Metro_Marunouchi_Line.svg.png",
     "text": "本線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Subway_TokyoHibiya.png/28px-Subway_TokyoHibiya.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo_of_Tokyo_Metro_Hibiya_Line.svg/28px-Logo_of_Tokyo_Metro_Hibiya_Line.svg.png",
     "text": "日比谷線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Subway_TokyoTozai.png/28px-Subway_TokyoTozai.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Logo_of_Tokyo_Metro_T%C5%8Dzai_Line.svg/28px-Logo_of_Tokyo_Metro_T%C5%8Dzai_Line.svg.png",
     "text": "東西線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Subway_TokyoChiyoda.png/28px-Subway_TokyoChiyoda.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Logo_of_Tokyo_Metro_Chiyoda_Line.svg/28px-Logo_of_Tokyo_Metro_Chiyoda_Line.svg.png",
     "text": "千代田線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Subway_TokyoYurakucho.png/28px-Subway_TokyoYurakucho.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_of_Tokyo_Metro_Y%C5%ABrakuch%C5%8D_Line.svg/28px-Logo_of_Tokyo_Metro_Y%C5%ABrakuch%C5%8D_Line.svg.png",
     "text": "有楽町線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Subway_TokyoHanzomon.png/28px-Subway_TokyoHanzomon.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Logo_of_Tokyo_Metro_Hanz%C5%8Dmon_Line.svg/28px-Logo_of_Tokyo_Metro_Hanz%C5%8Dmon_Line.svg.png",
     "text": "半蔵門線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Subway_TokyoNamboku.png/28px-Subway_TokyoNamboku.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Tokyo_Metro_Namboku_Line.svg/28px-Logo_of_Tokyo_Metro_Namboku_Line.svg.png",
     "text": "南北線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Subway_TokyoFukutoshin.png/28px-Subway_TokyoFukutoshin.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_of_Tokyo_Metro_Fukutoshin_Line.svg/28px-Logo_of_Tokyo_Metro_Fukutoshin_Line.svg.png",
     "text": "副都心線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Subway_TokyoAsakusa.png/28px-Subway_TokyoAsakusa.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Toei_Asakusa_line_symbol.svg/28px-Toei_Asakusa_line_symbol.svg.png",
     "text": "浅草線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Subway_TokyoMita.png/28px-Subway_TokyoMita.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Toei_Mita_line_symbol.svg/28px-Toei_Mita_line_symbol.svg.png",
     "text": "三田線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Subway_TokyoShinjuku.png/28px-Subway_TokyoShinjuku.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Toei_Shinjuku_line_symbol.svg/28px-Toei_Shinjuku_line_symbol.svg.png",
     "text": "新宿線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Subway_TokyoOedo.png/28px-Subway_TokyoOedo.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Toei_Oedo_line_symbol.svg/28px-Toei_Oedo_line_symbol.svg.png",
     "text": "大江戸線"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Yurikamome_line_symbol.svg/28px-Yurikamome_line_symbol.svg.png",
-    "text": "東京臨海新交通臨海線（ゆりかもめ）"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tokyo_Sakura_Tram_symbol.svg/28px-Tokyo_Sakura_Tram_symbol.svg.png",
@@ -136,48 +140,52 @@
     "text": "日暮里・舎人ライナー"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Number_prefix_Keisei.PNG/28px-Number_prefix_Keisei.PNG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Yurikamome_line_symbol.svg/28px-Yurikamome_line_symbol.svg.png",
+    "text": "東京臨海新交通臨海線（ゆりかもめ）"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Number_prefix_Keisei.svg/28px-Number_prefix_Keisei.svg.png",
     "text": "本線（京成本線） 京成上野駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Number_prefix_SkyAccess.PNG/28px-Number_prefix_SkyAccess.PNG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Number_prefix_SkyAccess.svg/28px-Number_prefix_SkyAccess.svg.png",
     "text": "成田空港線（成田スカイアクセス線） （京成高砂駅 - 印旛日本医大駅 - ）成田湯川駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Number_prefix_Keisei.PNG/28px-Number_prefix_Keisei.PNG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Number_prefix_Keisei.svg/28px-Number_prefix_Keisei.svg.png",
     "text": "東成田線 （京成成田駅 - ）東成田駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Number_prefix_Keisei.PNG/28px-Number_prefix_Keisei.PNG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Number_prefix_Keisei.svg/28px-Number_prefix_Keisei.svg.png",
     "text": "押上線 押上駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Number_prefix_Keisei.PNG/28px-Number_prefix_Keisei.PNG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Number_prefix_Keisei.svg/28px-Number_prefix_Keisei.svg.png",
     "text": "金町線 （京成高砂駅 - ）柴又駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Number_prefix_Keisei.PNG/28px-Number_prefix_Keisei.PNG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Number_prefix_Keisei.svg/28px-Number_prefix_Keisei.svg.png",
     "text": "千葉線 （京成津田沼駅 - ）京成幕張本郷駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Number_prefix_Keisei.PNG/28px-Number_prefix_Keisei.PNG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Number_prefix_Keisei.svg/28px-Number_prefix_Keisei.svg.png",
     "text": "千原線 千葉中央駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Number_prefix_Shin-Keisei.PNG/28px-Number_prefix_Shin-Keisei.PNG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Number_prefix_Shin-Keisei.svg/28px-Number_prefix_Shin-Keisei.svg.png",
     "text": "新京成線 松戸駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Number_prefix_Hokus%C5%8D.PNG/28px-Number_prefix_Hokus%C5%8D.PNG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Number_prefix_Hokus%C5%8D.svg/28px-Number_prefix_Hokus%C5%8D.svg.png",
     "text": "北総線 （京成高砂駅 - ）新柴又駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Number_prefix_Shibayama.PNG/28px-Number_prefix_Shibayama.PNG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Number_prefix_Shibayama.svg/28px-Number_prefix_Shibayama.svg.png",
     "text": "芝山鉄道線 （東成田駅 - ）芝山千代田駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Number_prefix_Keiky%C5%AB.PNG/28px-Number_prefix_Keiky%C5%AB.PNG",
-    "text": "本線 （泉岳寺駅 - ）品川駅"
+    "text": "本線（泉岳寺駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Number_prefix_Keiky%C5%AB.PNG/28px-Number_prefix_Keiky%C5%AB.PNG",
@@ -193,7 +201,7 @@
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Number_prefix_Keiky%C5%AB.PNG/28px-Number_prefix_Keiky%C5%AB.PNG",
-    "text": "久里浜線 （堀之内駅 - ）新大津駅"
+    "text": "久里浜線 堀ノ内駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tokyu_TY_line_symbol.svg/28px-Tokyu_TY_line_symbol.svg.png",
@@ -228,7 +236,7 @@
     "text": "こどもの国線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/ja/thumb/2/20/Number_prefix_Minatomirai.PNG/28px-Number_prefix_Minatomirai.PNG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Number_prefix_Minatomirai.svg/28px-Number_prefix_Minatomirai.svg.png",
     "text": "みなとみらい線"
   },
   {
@@ -292,12 +300,12 @@
     "text": "小田原線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Odakyu_enoshima.svg/28px-Odakyu_enoshima.svg.png",
-    "text": "江ノ島線"
-  },
-  {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Odakyu_tama.svg/28px-Odakyu_tama.svg.png",
     "text": "多摩線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Odakyu_enoshima.svg/28px-Odakyu_enoshima.svg.png",
+    "text": "江ノ島線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Odakyu_Hakone_StaNo.svg/28px-Odakyu_Hakone_StaNo.svg.png",
@@ -325,11 +333,39 @@
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sotetsu_line_symbol.svg/28px-Sotetsu_line_symbol.svg.png",
-    "text": "いずみ野線 南万騎が原駅"
+    "text": "いずみ野線 （二俣川駅 - ）南万騎が原駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sotetsu_line_symbol.svg/28px-Sotetsu_line_symbol.svg.png",
-    "text": "仮称・相鉄・JR直通線 羽沢横浜国大駅"
+    "text": "相鉄新横浜線（相鉄・JR直通線）"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tsukuba_Express_symbol.svg/28px-Tsukuba_Express_symbol.svg.png",
+    "text": "つくばエクスプレス"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/New_Shuttle_Line_symbol.svg/28px-New_Shuttle_Line_symbol.svg.png",
+    "text": "ニューシャトル（伊奈線）"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Saitama_Stadium_Line_symbol.svg/28px-Saitama_Stadium_Line_symbol.svg.png",
+    "text": "埼玉高速鉄道線（埼玉スタジアム線）"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Number_prefix_Chiba_monorail.PNG/28px-Number_prefix_Chiba_monorail.PNG",
+    "text": ""
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Number_prefix_Toyo-Rapid.svg/28px-Number_prefix_Toyo-Rapid.svg.png",
+    "text": "東葉高速線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Number_prefix_Choshi.png/28px-Number_prefix_Choshi.png",
+    "text": "銚子電鉄線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tama_Monorail_Line_symbol.svg/28px-Tama_Monorail_Line_symbol.svg.png",
+    "text": "多摩都市モノレール線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Yokohama_Municipal_Subway_Blue_Line_symbol.svg/28px-Yokohama_Municipal_Subway_Blue_Line_symbol.svg.png",
@@ -344,16 +380,12 @@
     "text": "江ノ島電鉄線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Number_prefix_T%C5%8Dy%C5%8D.PNG/28px-Number_prefix_T%C5%8Dy%C5%8D.PNG",
-    "text": "東葉高速線"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SR%282%29.png/28px-SR%282%29.png",
-    "text": "埼玉高速鉄道線（埼玉スタジアム線）"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Number_prefix_Daiyuzan.png/28px-Number_prefix_Daiyuzan.png",
+    "text": "大雄山線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/JR_Central_Tokaido_Line.svg/28px-JR_Central_Tokaido_Line.svg.png",
-    "text": "東海道本線"
+    "text": "東海道本線（静岡地区・名古屋地区）"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/JR_Central_Gotemba_Line.svg/28px-JR_Central_Gotemba_Line.svg.png",
@@ -373,7 +405,7 @@
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/JR_Central_Chuo_Line.svg/28px-JR_Central_Chuo_Line.svg.png",
-    "text": "中央本線（名古屋地区のほか、中津川駅から塩尻駅寄りの3駅）"
+    "text": "中央本線（名古屋地区）"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/JR_Central_Takayama_Line.svg/28px-JR_Central_Takayama_Line.svg.png",
@@ -385,7 +417,19 @@
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/JR_Central_Kansai_Line.svg/28px-JR_Central_Kansai_Line.svg.png",
-    "text": "関西本線（名古屋地区）"
+    "text": "関西本線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/JR_CO_line_symbol.svg/28px-JR_CO_line_symbol.svg.png",
+    "text": "中央本線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Number_prefix_Izukyu.png/28px-Number_prefix_Izukyu.png",
+    "text": "伊豆急行線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Number_prefix_Sunzu.png/28px-Number_prefix_Sunzu.png",
+    "text": "駿豆線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nagoya_Subway_Logo_V2_%28Higashiyama_Line%29.svg/28px-Nagoya_Subway_Logo_V2_%28Higashiyama_Line%29.svg.png",
@@ -480,44 +524,160 @@
     "text": "築港線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Number_prefix_Nankai_Railway_line.png/26px-Number_prefix_Nankai_Railway_line.png",
-    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  南海本線 難波駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/JRW_kinki-A.svg/28px-JRW_kinki-A.svg.png",
+    "text": "北陸線 敦賀駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/JRW_kinki-A.svg/28px-JRW_kinki-A.svg.png",
+    "text": "琵琶湖線 長浜駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/JRW_kinki-A.svg/28px-JRW_kinki-A.svg.png",
+    "text": "JR京都線 京都駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/JRW_kinki-A.svg/28px-JRW_kinki-A.svg.png",
+    "text": "JR神戸線 大阪駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/JRW_kinki-A.svg/28px-JRW_kinki-A.svg.png",
+    "text": "山陽線 姫路駅 - 相生駅 - 上郡駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/JRW_kinki-A.svg/28px-JRW_kinki-A.svg.png",
+    "text": "赤穂線 相生駅 - 播州赤穂駅\n米原駅にはJR東海としての駅番号「CA83」も付与されている。\n北陸線 高月駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/JRW_kinki-B.svg/28px-JRW_kinki-B.svg.png",
+    "text": "湖西線 敦賀駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/JRW_kinki-C.svg/28px-JRW_kinki-C.svg.png",
+    "text": "草津線 草津駅 - 柘植駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/JRW_kinki-D.svg/28px-JRW_kinki-D.svg.png",
+    "text": "奈良線 京都駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/JRW_kinki-E.svg/28px-JRW_kinki-E.svg.png",
+    "text": "嵯峨野線 京都駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/JRW_kinki-E.svg/28px-JRW_kinki-E.svg.png",
+    "text": "山陰線 園部駅 - 綾部駅 - 福知山駅 - 城崎温泉駅\n福知山駅 - 城崎温泉駅間は2016年3月のダイヤ改正から路線記号の対象に追加された。"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/JRW_kinki-F.svg/28px-JRW_kinki-F.svg.png",
+    "text": "おおさか東線 新大阪駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/JRW_kinki-G.svg/28px-JRW_kinki-G.svg.png",
+    "text": "JR宝塚線 大阪駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/JRW_kinki-G.svg/28px-JRW_kinki-G.svg.png",
+    "text": "福知山線 篠山口駅 - 福知山駅\n駅ナンバーは北陸線 敦賀駅を起点とした通し番号となっている。大阪駅 - 尼崎駅間はJR神戸線区間でもあるが、JR宝塚線としての駅ナンバリングも導入されている。"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/JRW_kinki-H.svg/28px-JRW_kinki-H.svg.png",
+    "text": "学研都市線 木津駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/JRW_kinki-H.svg/28px-JRW_kinki-H.svg.png",
+    "text": "JR東西線 京橋駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JRW_kinki-I.svg/28px-JRW_kinki-I.svg.png",
+    "text": "加古川線 加古川駅 - 谷川駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/JRW_kinki-J.svg/28px-JRW_kinki-J.svg.png",
+    "text": "播但線 姫路駅 - 和田山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/JRW_kinki-K.svg/28px-JRW_kinki-K.svg.png",
+    "text": "姫新線 姫路駅 - 上月駅 - 新見駅\n上月駅 - 新見駅間は2016年3月のダイヤ改正から路線記号の対象に追加された。"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/JRW_kinki-L.svg/28px-JRW_kinki-L.svg.png",
+    "text": "舞鶴線 綾部駅 - 東舞鶴駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/JRW_kinki-O.svg/28px-JRW_kinki-O.svg.png",
+    "text": "大阪環状線 天王寺駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/JRW_kinki-P.svg/28px-JRW_kinki-P.svg.png",
+    "text": "JRゆめ咲線 西九条駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/JRW_kinki-Q.svg/28px-JRW_kinki-Q.svg.png",
+    "text": "大和路線 JR難波駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/JRW_kinki-R.svg/28px-JRW_kinki-R.svg.png",
+    "text": "阪和線 天王寺駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JRW_kinki-S.svg/28px-JRW_kinki-S.svg.png",
+    "text": "関西空港線 日根野駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/JRW_kinki-T.svg/28px-JRW_kinki-T.svg.png",
+    "text": "和歌山線 王寺駅 - 和歌山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/JRW_kinki-U.svg/28px-JRW_kinki-U.svg.png",
+    "text": "万葉まほろば線 奈良駅 - 高田駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/JRW_kinki-V.svg/28px-JRW_kinki-V.svg.png",
+    "text": "関西線 加茂駅 - 亀山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/JRW_kinki-W.svg/28px-JRW_kinki-W.svg.png",
+    "text": "きのくに線 和歌山駅 - 新宮駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Number_prefix_Nankai_Railway_line.png/26px-Number_prefix_Nankai_Railway_line.png",
-    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  南海本線 難波駅"
+    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" decoding=\"async\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  南海本線 難波駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Number_prefix_Nankai_Railway_line.png/26px-Number_prefix_Nankai_Railway_line.png",
-    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nankai_airport_line_symbol.svg/15px-Nankai_airport_line_symbol.svg.png\" width=\"15\" height=\"15\" data-file-width=\"60\" data-file-height=\"60\">  空港線 りんくうタウン駅"
+    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" decoding=\"async\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  南海本線 難波駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Number_prefix_Nankai_Railway_line.png/26px-Number_prefix_Nankai_Railway_line.png",
-    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  高師浜線 伽羅橋駅"
+    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nankai_airport_line_symbol.svg/15px-Nankai_airport_line_symbol.svg.png\" decoding=\"async\" width=\"15\" height=\"15\" data-file-width=\"60\" data-file-height=\"60\">  空港線 りんくうタウン駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Number_prefix_Nankai_Railway_line.png/26px-Number_prefix_Nankai_Railway_line.png",
-    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  多奈川線 深日町駅"
+    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" decoding=\"async\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  高師浜線 伽羅橋駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Number_prefix_Nankai_Railway_line.png/26px-Number_prefix_Nankai_Railway_line.png",
-    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  加太線 東松江駅"
+    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" decoding=\"async\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  多奈川線 深日町駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Number_prefix_Nankai_Railway_line.png/26px-Number_prefix_Nankai_Railway_line.png",
-    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  和歌山港線 和歌山港駅"
+    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" decoding=\"async\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  加太線 東松江駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Number_prefix_Nankai_Railway_line.png/26px-Number_prefix_Nankai_Railway_line.png",
-    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nankai_koya_line_symbol.svg/15px-Nankai_koya_line_symbol.svg.png\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  高野線\n汐見橋線 西天下茶屋駅"
+    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nankai_mainline_symbol.svg/15px-Nankai_mainline_symbol.svg.png\" decoding=\"async\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  和歌山港線 和歌山港駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Number_prefix_Nankai_Railway_line.png/26px-Number_prefix_Nankai_Railway_line.png",
-    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nankai_koya_line_symbol.svg/15px-Nankai_koya_line_symbol.svg.png\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  高野線\n汐見橋線 西天下茶屋駅"
+    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nankai_koya_line_symbol.svg/15px-Nankai_koya_line_symbol.svg.png\" decoding=\"async\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  高野線\n汐見橋線 西天下茶屋駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Number_prefix_Nankai_Railway_line.png/26px-Number_prefix_Nankai_Railway_line.png",
-    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nankai_koya_line_symbol.svg/15px-Nankai_koya_line_symbol.svg.png\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  鋼索線 高野山駅"
+    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nankai_koya_line_symbol.svg/15px-Nankai_koya_line_symbol.svg.png\" decoding=\"async\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  高野線\n汐見橋線 西天下茶屋駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Number_prefix_Nankai_Railway_line.png/26px-Number_prefix_Nankai_Railway_line.png",
+    "text": "<img alt=\"NK\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nankai_koya_line_symbol.svg/15px-Nankai_koya_line_symbol.svg.png\" decoding=\"async\" width=\"15\" height=\"15\" data-file-width=\"48\" data-file-height=\"48\">  鋼索線 極楽橋駅"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Number_prefix_Semboku_Rapid_Railway_line.png/26px-Number_prefix_Semboku_Rapid_Railway_line.png",
@@ -532,108 +692,220 @@
     "text": "■ 上町線 天王寺駅前駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Subway_KyotoKarasuma.png/25px-Subway_KyotoKarasuma.png",
-    "text": "烏丸線"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Osaka_Metro_Midosuji_line_symbol.svg/25px-Osaka_Metro_Midosuji_line_symbol.svg.png",
+    "text": "御堂筋線・ M  北大阪急行南北線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Subway_KyotoTozai.png/25px-Subway_KyotoTozai.png",
-    "text": "東西線"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Osaka_Metro_Tanimachi_line_symbol.svg/25px-Osaka_Metro_Tanimachi_line_symbol.svg.png",
+    "text": "谷町線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/1M.png/25px-1M.png",
-    "text": "<img alt=\"M\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Midosuji_logo.png/23px-Midosuji_logo.png\" width=\"23\" height=\"22\" data-file-width=\"226\" data-file-height=\"219\">  御堂筋線・□M 南北線"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Osaka_Metro_Yotsubashi_line_symbol.svg/25px-Osaka_Metro_Yotsubashi_line_symbol.svg.png",
+    "text": "四つ橋線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2T-2.png/25px-2T-2.png",
-    "text": "<img alt=\"T\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tanimachi_logo.png/23px-Tanimachi_logo.png\" width=\"23\" height=\"22\" data-file-width=\"226\" data-file-height=\"219\">  谷町線"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Osaka_Metro_Chuo_line_symbol.svg/25px-Osaka_Metro_Chuo_line_symbol.svg.png",
+    "text": "中央線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/3Y-2.png/25px-3Y-2.png",
-    "text": "<img alt=\"Y\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Yotsubashi.png/23px-Yotsubashi.png\" width=\"23\" height=\"22\" data-file-width=\"226\" data-file-height=\"219\">  四つ橋線"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Osaka_Metro_Sennichimae_line_symbol.svg/25px-Osaka_Metro_Sennichimae_line_symbol.svg.png",
+    "text": "千日前線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/4C.png/25px-4C.png",
-    "text": "<img alt=\"C\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chuo.png/23px-Chuo.png\" width=\"23\" height=\"22\" data-file-width=\"226\" data-file-height=\"219\">  中央線"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Osaka_Metro_Sakaisuji_line_symbol.svg/25px-Osaka_Metro_Sakaisuji_line_symbol.svg.png",
+    "text": "堺筋線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/5S.png/25px-5S.png",
-    "text": "<img alt=\"S\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sennichimae.png/23px-Sennichimae.png\" width=\"23\" height=\"22\" data-file-width=\"226\" data-file-height=\"219\">  千日前線"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg/25px-Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg.png",
+    "text": "長堀鶴見緑地線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/6K.png/25px-6K.png",
-    "text": "<img alt=\"K\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sakaisuji_logo.png/23px-Sakaisuji_logo.png\" width=\"23\" height=\"22\" data-file-width=\"226\" data-file-height=\"219\">  堺筋線"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Osaka_Metro_Imazatosuji_line_symbol.svg/25px-Osaka_Metro_Imazatosuji_line_symbol.svg.png",
+    "text": "今里筋線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/7N.png/25px-7N.png",
-    "text": "<img alt=\"N\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Tsurumiryokuchi.png/23px-Tsurumiryokuchi.png\" width=\"23\" height=\"22\" data-file-width=\"226\" data-file-height=\"219\">  長堀鶴見緑地線"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Osaka_Metro_Nanko_Port_Town_line_symbol.svg/25px-Osaka_Metro_Nanko_Port_Town_line_symbol.svg.png",
+    "text": "南港ポートタウン線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/8i.png/25px-8i.png",
-    "text": "<img alt=\"I\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Imazatosuji.png/23px-Imazatosuji.png\" width=\"23\" height=\"22\" data-file-width=\"226\" data-file-height=\"219\">  今里筋線"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KT_number-A.svg/20px-KT_number-A.svg.png",
+    "text": "難波線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/9P.png/25px-9P.png",
-    "text": "<img alt=\"P\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Newtram_logo.png/23px-Newtram_logo.png\" width=\"23\" height=\"22\" data-file-width=\"226\" data-file-height=\"219\">  南港ポートタウン線"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KT_number-A.svg/20px-KT_number-A.svg.png",
+    "text": "難波線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KT_number-A.svg/20px-KT_number-A.svg.png",
+    "text": "奈良線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/KT_number-G.svg/20px-KT_number-G.svg.png",
+    "text": "生駒線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/KT_number-B.svg/20px-KT_number-B.svg.png",
+    "text": "京都線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/KT_number-B.svg/20px-KT_number-B.svg.png",
+    "text": "京都線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/KT_number-B.svg/20px-KT_number-B.svg.png",
+    "text": "橿原線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/KT_number-H.svg/20px-KT_number-H.svg.png",
+    "text": "天理線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/KT_number-I.svg/20px-KT_number-I.svg.png",
+    "text": "田原本線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KT_number-C.svg/20px-KT_number-C.svg.png",
+    "text": "けいはんな線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/KT_number-D.svg/20px-KT_number-D.svg.png",
+    "text": "大阪線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/KT_number-D.svg/20px-KT_number-D.svg.png",
+    "text": "大阪線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KT_number-J.svg/20px-KT_number-J.svg.png",
+    "text": "信貴線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/KT_number-E.svg/20px-KT_number-E.svg.png",
+    "text": "名古屋線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/KT_number-E.svg/20px-KT_number-E.svg.png",
+    "text": "名古屋線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/KT_number-K.svg/20px-KT_number-K.svg.png",
+    "text": "湯の山線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/KT_number-L.svg/20px-KT_number-L.svg.png",
+    "text": "鈴鹿線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/KT_number-M.svg/20px-KT_number-M.svg.png",
+    "text": "山田線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/KT_number-M.svg/20px-KT_number-M.svg.png",
+    "text": "山田線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/KT_number-M.svg/20px-KT_number-M.svg.png",
+    "text": "鳥羽線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/KT_number-M.svg/20px-KT_number-M.svg.png",
+    "text": "志摩線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/KT_number-F.svg/20px-KT_number-F.svg.png",
+    "text": "南大阪線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/KT_number-F.svg/20px-KT_number-F.svg.png",
+    "text": "南大阪線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/KT_number-F.svg/20px-KT_number-F.svg.png",
+    "text": "吉野線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/KT_number-N.svg/20px-KT_number-N.svg.png",
+    "text": "道明寺線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/KT_number-O.svg/20px-KT_number-O.svg.png",
+    "text": "長野線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/KT_number-P.svg/20px-KT_number-P.svg.png",
+    "text": "御所線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/KT_number-Y.svg/20px-KT_number-Y.svg.png",
+    "text": "生駒鋼索線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/KT_number-Y.svg/20px-KT_number-Y.svg.png",
+    "text": "生駒鋼索線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KT_number-Z.svg/20px-KT_number-Z.svg.png",
+    "text": "西信貴鋼索線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Subway_KobeSeishin.svg/13px-Subway_KobeSeishin.svg.png",
-    "text": "西神・山手線 ・  S  北神線"
+    "text": "S  西神・山手線、 S  北神線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Subway_KobeKaigan.svg/13px-Subway_KobeKaigan.svg.png",
-    "text": "海岸線"
+    "text": "K  海岸線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Number_prefix_Hankyu_Kobe_line.png/25px-Number_prefix_Hankyu_Kobe_line.png",
-    "text": "神戸本線 梅田駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Number_prefix_Hankyu_K%C5%8Dbe_line.svg/25px-Number_prefix_Hankyu_K%C5%8Dbe_line.svg.png",
+    "text": "神戸本線 大阪梅田駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Number_prefix_Hankyu_Kobe_line.png/25px-Number_prefix_Hankyu_Kobe_line.png",
-    "text": "神戸本線 梅田駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Number_prefix_Hankyu_K%C5%8Dbe_line.svg/25px-Number_prefix_Hankyu_K%C5%8Dbe_line.svg.png",
+    "text": "神戸本線 大阪梅田駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Number_prefix_Hankyu_Kobe_line.png/25px-Number_prefix_Hankyu_Kobe_line.png",
-    "text": "神戸高速線 花隈駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Number_prefix_Hankyu_K%C5%8Dbe_line.svg/25px-Number_prefix_Hankyu_K%C5%8Dbe_line.svg.png",
+    "text": "神戸高速線 神戸三宮駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Number_prefix_Hankyu_Kobe_line.png/25px-Number_prefix_Hankyu_Kobe_line.png",
-    "text": "伊丹線 稲野駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Number_prefix_Hankyu_K%C5%8Dbe_line.svg/25px-Number_prefix_Hankyu_K%C5%8Dbe_line.svg.png",
+    "text": "伊丹線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Number_prefix_Hankyu_Kobe_line.png/25px-Number_prefix_Hankyu_Kobe_line.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Number_prefix_Hankyu_K%C5%8Dbe_line.svg/25px-Number_prefix_Hankyu_K%C5%8Dbe_line.svg.png",
     "text": "今津線 今津駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Number_prefix_Hankyu_Kobe_line.png/25px-Number_prefix_Hankyu_Kobe_line.png",
-    "text": "甲陽線 苦楽園口駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Number_prefix_Hankyu_K%C5%8Dbe_line.svg/25px-Number_prefix_Hankyu_K%C5%8Dbe_line.svg.png",
+    "text": "甲陽線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Number_prefix_Hanky%C5%AB_Takarazuka_line.png/25px-Number_prefix_Hanky%C5%AB_Takarazuka_line.png",
-    "text": "宝塚本線 三国駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Number_prefix_Hankyu_Takarazuka_line.svg/25px-Number_prefix_Hankyu_Takarazuka_line.svg.png",
+    "text": "宝塚本線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Number_prefix_Hanky%C5%AB_Takarazuka_line.png/25px-Number_prefix_Hanky%C5%AB_Takarazuka_line.png",
-    "text": "宝塚本線 三国駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Number_prefix_Hankyu_Takarazuka_line.svg/25px-Number_prefix_Hankyu_Takarazuka_line.svg.png",
+    "text": "宝塚本線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Number_prefix_Hanky%C5%AB_Takarazuka_line.png/25px-Number_prefix_Hanky%C5%AB_Takarazuka_line.png",
-    "text": "箕面線 桜井駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Number_prefix_Hankyu_Takarazuka_line.svg/25px-Number_prefix_Hankyu_Takarazuka_line.svg.png",
+    "text": "箕面線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Number_prefix_Hankyu_Kyoto_line.png/25px-Number_prefix_Hankyu_Kyoto_line.png",
-    "text": "京都本線 南方駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Number_prefix_Hankyu_Ky%C5%8Dto_line.svg/25px-Number_prefix_Hankyu_Ky%C5%8Dto_line.svg.png",
+    "text": "京都本線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Number_prefix_Hankyu_Kyoto_line.png/25px-Number_prefix_Hankyu_Kyoto_line.png",
-    "text": "京都本線 南方駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Number_prefix_Hankyu_Ky%C5%8Dto_line.svg/25px-Number_prefix_Hankyu_Ky%C5%8Dto_line.svg.png",
+    "text": "京都本線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Number_prefix_Hankyu_Kyoto_line.png/25px-Number_prefix_Hankyu_Kyoto_line.png",
-    "text": "千里線 柴島駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Number_prefix_Hankyu_Ky%C5%8Dto_line.svg/25px-Number_prefix_Hankyu_Ky%C5%8Dto_line.svg.png",
+    "text": "千里線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Number_prefix_Hankyu_Kyoto_line.png/25px-Number_prefix_Hankyu_Kyoto_line.png",
-    "text": "嵐山線 上桂駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Number_prefix_Hankyu_Ky%C5%8Dto_line.svg/25px-Number_prefix_Hankyu_Ky%C5%8Dto_line.svg.png",
+    "text": "嵐山線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Number_prefix_Nose_Railway_line.png/25px-Number_prefix_Nose_Railway_line.png",
@@ -641,22 +913,22 @@
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Number_prefix_Nose_Railway_line.png/25px-Number_prefix_Nose_Railway_line.png",
-    "text": "日生線 日生中央駅"
+    "text": "日生線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Number_prefix_Hanshin_Railway.png/25px-Number_prefix_Hanshin_Railway.png",
-    "text": "本線 梅田駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Number_prefix_Hanshin_line.svg/25px-Number_prefix_Hanshin_line.svg.png",
+    "text": "本線 大阪梅田駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Number_prefix_Hanshin_Railway.png/25px-Number_prefix_Hanshin_Railway.png",
-    "text": "神戸高速線 西元町駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Number_prefix_Hanshin_line.svg/25px-Number_prefix_Hanshin_line.svg.png",
+    "text": "神戸高速線 元町駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Number_prefix_Hanshin_Railway.png/25px-Number_prefix_Hanshin_Railway.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Number_prefix_Hanshin_line.svg/25px-Number_prefix_Hanshin_line.svg.png",
     "text": "阪神なんば線 大阪難波駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Number_prefix_Hanshin_Railway.png/25px-Number_prefix_Hanshin_Railway.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Number_prefix_Hanshin_line.svg/25px-Number_prefix_Hanshin_line.svg.png",
     "text": "武庫川線 武庫川団地前駅"
   },
   {
@@ -665,27 +937,35 @@
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Number_prefix_San-yo_Railway_line.png/25px-Number_prefix_San-yo_Railway_line.png",
-    "text": "網干線 西飾磨駅"
+    "text": "網干線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Number_prefix_Kobe_Railway_line.png/25px-Number_prefix_Kobe_Railway_line.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Number_prefix_Kobe_Railway.svg/25px-Number_prefix_Kobe_Railway.svg.png",
     "text": "神戸高速線 新開地駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Number_prefix_Kobe_Railway_line.png/25px-Number_prefix_Kobe_Railway_line.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Number_prefix_Kobe_Railway.svg/25px-Number_prefix_Kobe_Railway.svg.png",
     "text": "有馬線 湊川駅"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Number_prefix_Kobe_Railway_line.png/25px-Number_prefix_Kobe_Railway_line.png",
-    "text": "三田線 五社駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Number_prefix_Kobe_Railway.svg/25px-Number_prefix_Kobe_Railway.svg.png",
+    "text": "三田線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Number_prefix_Kobe_Railway_line.png/25px-Number_prefix_Kobe_Railway_line.png",
-    "text": "公園都市線 フラワータウン駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Number_prefix_Kobe_Railway.svg/25px-Number_prefix_Kobe_Railway.svg.png",
+    "text": "公園都市線"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Number_prefix_Kobe_Railway_line.png/25px-Number_prefix_Kobe_Railway_line.png",
-    "text": "粟生線 鈴蘭台西口駅"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Number_prefix_Kobe_Railway.svg/25px-Number_prefix_Kobe_Railway.svg.png",
+    "text": "粟生線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Subway_KyotoKarasuma.png/25px-Subway_KyotoKarasuma.png",
+    "text": "烏丸線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Subway_KyotoTozai.png/25px-Subway_KyotoTozai.png",
+    "text": "東西線"
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Number_prefix_Randen_Arashiyama_mainline.png/25px-Number_prefix_Randen_Arashiyama_mainline.png",
@@ -694,5 +974,109 @@
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Number_prefix_Randen_Kitano_line.png/25px-Number_prefix_Randen_Kitano_line.png",
     "text": "北野線"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/JRW_oka-S.svg/28px-JRW_oka-S.svg.png",
+    "text": "山陽線 岡山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/JRW_oka-S.svg/28px-JRW_oka-S.svg.png",
+    "text": "山陽線 岡山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/JRW_oka-T.svg/28px-JRW_oka-T.svg.png",
+    "text": "津山線 岡山駅 - 津山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/JRW_oka-U.svg/28px-JRW_oka-U.svg.png",
+    "text": "桃太郎線 岡山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/JRW_san-V.svg/28px-JRW_san-V.svg.png",
+    "text": "伯備線 岡山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/JRW_oka-W.svg/28px-JRW_oka-W.svg.png",
+    "text": "山陽線 岡山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/JRW_oka-X.svg/28px-JRW_oka-X.svg.png",
+    "text": "山陽線 福山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/JRW_oka-Z.svg/28px-JRW_oka-Z.svg.png",
+    "text": "福塩線 福山駅 - 塩町駅 - 三次駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JRW_oka-L.svg/28px-JRW_oka-L.svg.png",
+    "text": "宇野みなと線 岡山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/JRW_oka-M.svg/28px-JRW_oka-M.svg.png",
+    "text": "瀬戸大橋線 岡山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/JRW_oka-N.svg/28px-JRW_oka-N.svg.png",
+    "text": "赤穂線 岡山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/JRW_san-A.svg/28px-JRW_san-A.svg.png",
+    "text": "山陰線 城崎温泉駅 - 米子駅\n<img alt=\"B\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/82/JRW_san-B.svg/28px-JRW_san-B.svg.png\" decoding=\"async\" width=\"28\" height=\"28\" data-file-width=\"512\" data-file-height=\"512\">  因美線 鳥取駅 - 東津山駅 - 津山駅\n<img alt=\"C\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/25/JRW_san-C.svg/28px-JRW_san-C.svg.png\" decoding=\"async\" width=\"28\" height=\"28\" data-file-width=\"512\" data-file-height=\"512\">  境線 米子駅 - 境港駅\n<img alt=\"D\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/b/be/JRW_san-D.svg/28px-JRW_san-D.svg.png\" decoding=\"async\" width=\"28\" height=\"28\" data-file-width=\"512\" data-file-height=\"512\">  山陰線 米子駅 - 益田駅\n<img alt=\"E\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/10/JRW_san-E.svg/28px-JRW_san-E.svg.png\" decoding=\"async\" width=\"28\" height=\"28\" data-file-width=\"512\" data-file-height=\"512\">  木次線 宍道駅 - 備後落合駅\n<img alt=\"V\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/02/JRW_san-V.svg/28px-JRW_san-V.svg.png\" decoding=\"async\" width=\"28\" height=\"28\" data-file-width=\"512\" data-file-height=\"512\">  伯備線 新見駅 - 伯耆大山駅 - 米子駅\n岡山・福山エリアと路線記号、ラインカラーを共用している。"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/JRW_san-A.svg/28px-JRW_san-A.svg.png",
+    "text": "山陰線 城崎温泉駅 - 米子駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/JRW_san-B.svg/28px-JRW_san-B.svg.png",
+    "text": "因美線 鳥取駅 - 東津山駅 - 津山駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/JRW_san-C.svg/28px-JRW_san-C.svg.png",
+    "text": "境線 米子駅 - 境港駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/JRW_san-D.svg/28px-JRW_san-D.svg.png",
+    "text": "山陰線 米子駅 - 益田駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/JRW_san-E.svg/28px-JRW_san-E.svg.png",
+    "text": "木次線 宍道駅 - 備後落合駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/JRW_san-V.svg/28px-JRW_san-V.svg.png",
+    "text": "伯備線 新見駅 - 伯耆大山駅 - 米子駅\n岡山・福山エリアと路線記号、ラインカラーを共用している。"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/JRW_hiro-G.svg/28px-JRW_hiro-G.svg.png",
+    "text": ""
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/JRW_hiro-G.svg/28px-JRW_hiro-G.svg.png",
+    "text": ""
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/JRW_hiro-R.svg/28px-JRW_hiro-R.svg.png",
+    "text": ""
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/JRW_hiro-Y.svg/28px-JRW_hiro-Y.svg.png",
+    "text": ""
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/JRW_hiro-B.svg/28px-JRW_hiro-B.svg.png",
+    "text": ""
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/JRW_hiro-P.svg/28px-JRW_hiro-P.svg.png",
+    "text": ""
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/JRW_san-F.svg/28px-JRW_san-F.svg.png",
+    "text": "三江線（山陰エリア、2018年4月1日廃止）江津駅 - 三次駅"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/JRW_san-F.svg/28px-JRW_san-F.svg.png",
+    "text": "三江線（山陰エリア、2018年4月1日廃止）江津駅 - 三次駅"
   }
 ]
